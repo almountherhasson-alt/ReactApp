@@ -1,0 +1,16 @@
+const employees = [
+  { id: 1001, name: 'علي محمد', department: 'الموارد البشرية', title: 'أخصائي توظيف' },
+  { id: 1002, name: 'سارة أحمد', department: 'المبيعات', title: 'مدير حسابات' },
+  { id: 1003, name: 'خالد يوسف', department: 'تكنولوجيا المعلومات', title: 'مهندس برمجيات' },
+  { id: 1004, name: 'نور عبد', department: 'المشتريات', title: 'منسق مشتريات' },
+  { id: 1005, name: 'ليلى حسن', department: 'التسويق', title: 'أخصائي تسويق رقمي' },
+  { id: 1006, name: 'مروان علاء', department: 'الدعم الفني', title: 'فني دعم سطح مكتب' },
+  { id: 1007, name: 'هند خالد', department: 'المالية', title: 'محاسب' },
+  { id: 1008, name: 'أحمد سمير', department: 'الخدمات اللوجستية', title: 'منسق لوجستي' },
+  { id: 1009, name: ' ريم ناصر', department: 'الموارد البشرية', title: 'أخصائي تدريب' },
+  { id: 1010, name: 'زياد فؤاد', department: 'تكنولوجيا المعلومات', title: 'مهندس DevOps' },
+  { id: 1011, name: 'منى إبراهيم', department: 'التصميم', title: 'مصمم جرافيك' },
+  { id: 1012, name: 'طارق محمود', department: 'الجودة', title: 'مهندس جودة' },
+];
+
+export default employees;
